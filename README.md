@@ -58,7 +58,7 @@
 <br/>
 
 
-[resume]:[https://www.canva.com/design/DAG1rwmT6rc/NCo9aoTb0SnmWGcpsHd-Rw/edit?utm_content=DAG1rwmT6rc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+[resume]:https://www.canva.com/design/DAG1rwmT6rc/NCo9aoTb0SnmWGcpsHd-Rw/edit?utm_content=DAG1rwmT6rc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 [website]: https://srikoushikkamal.life
 [instagram]: https://instagram.com/skk_kamal_?igshid=4svygymtw83f
 [linkedin]: https://linkedin.com/in/Srikoushikkamal
