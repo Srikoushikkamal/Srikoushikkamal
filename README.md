@@ -9,17 +9,16 @@
 
 I'm a Data Engineer,
 
-🎓 MSc in Big Data Analytics @ Griffith College Dublin
-🐍 Python, SQL, ETL pipelines
-🌱 Growing into Data Engineering
-🤝 Open to Junior/Associate roles in Dublin
+🎓 MSc in Big Data Analytics @ Griffith College Dublin <br>
+🐍 Python, SQL, ETL pipelines <br>
+🌱 Growing into Data Engineering <br>
+🤝 Open to Junior/Associate roles in Dublin <br>
 🎵 Music keeps me sane on the side
 
 ## GOALS
-GOALS
 
-📅 2025 Goal: Joined College (Done)
-📅 2026 Goal: Finding a Job 🎯
+📅 2025 Goal: Joined College (Done) <br>
+📅 2026 Goal: Finding a Job 🎯 
 
 
 
