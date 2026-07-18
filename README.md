@@ -4,9 +4,6 @@
 <img src="https://cdn.dribbble.com/users/118246/screenshots/5343519/wifi.gif" width="500"  />
 </p>
 
-
-[![website](https://img.shields.io/website?label=Srikoushikkamal&style=for-the-badge&url=https%3A%2F%2Fsrikoushikkamal.life)][resume]
-
 I'm a Data Engineer,
 
 🎓 MSc in Big Data Analytics @ Griffith College Dublin <br>
