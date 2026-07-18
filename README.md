@@ -57,9 +57,13 @@ I'm a Data Engineer,
 
 <br/>
 
-<h4 align="center">Profile Views</h4>
+<div align="center">
+
 ### Profile Views
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Srikoushikkamal&color=blue)
+
+</div>
 
 
 [resume]:https://www.canva.com/design/DAG1rwmT6rc/NCo9aoTb0SnmWGcpsHd-Rw/edit?utm_content=DAG1rwmT6rc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
