@@ -26,7 +26,7 @@ I'm a Data Engineer,
 
 [<img align="left" alt="skk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br /> <br />
 [<img align="left" alt="skk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]<br /><br />
-[<img align="left" alt="skk" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/gmail-1664104-1412927.png" />][mail] : srikoushikkamal@gmail.com
+[<img align="left" alt="skk" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/gmail-1664104-1412927.png" />][mail]: https://mail.google.com/mail/?view=cm&fs=1&to=srikoushikkamal@gmail.com
 
 
 
