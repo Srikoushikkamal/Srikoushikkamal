@@ -36,6 +36,8 @@ I'm a Data Engineer,
 
 ### Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://w7.pngwing.com/pngs/792/780/png-transparent-python-computer-icons-tutorial-computer-programming-social-icons-miscellaneous-angle-text.png" />][blank]
+[<img align="left" alt="SQL Server" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/microsoft-sql-server/microsoft-sql-server.png" />][blank]
+[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][blank]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][blank]
 [<img align="left" alt="bash" width="38px" src="https://cdn.pixabay.com/photo/2013/07/12/14/48/bash-148836_960_720.png" />][blank]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][blank]
@@ -44,7 +46,6 @@ I'm a Data Engineer,
 [<img align="left" alt="Conda" width="42px" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" />][blank]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][blank]
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][blank]
-
 <br/>
 
 ### Podcast Playlist 🎧
