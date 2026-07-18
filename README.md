@@ -7,17 +7,19 @@
 
 [![website](https://img.shields.io/website?label=Srikoushikkamal&style=for-the-badge&url=https%3A%2F%2Fsrikoushikkamal.life)][resume]
 
-## I'm a Developer ofc & A Musician!!!
+I'm a Data Engineer,
 
-- 🔭 Python ! 
-- 🌱 Trying To Enirich ML And It's Branches
-- 👯 I'm Always Open To Work With People
-- ⚡! Music Is All I Believe in..!
+🎓 MSc in Big Data Analytics @ Griffith College Dublin
+🐍 Python, SQL, ETL pipelines
+🌱 Growing into Data Engineering
+🤝 Open to Junior/Associate roles in Dublin
+🎵 Music keeps me sane on the side
 
 ## GOALS
-- 🥅 2021 Goal: To Get An ML/DS Internship (Done)
-- 📆 2022 Goal : Be Knowledge in DATA (Partial & Will Learn Through Process)
-- 🥅 2023 Goal : Professionally Be The Go Person In Projects
+GOALS
+
+📅 2025 Goal: Joined College (Done)
+📅 2026 Goal: Finding a Job 🎯
 
 
 
