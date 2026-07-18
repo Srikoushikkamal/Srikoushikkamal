@@ -58,9 +58,8 @@ I'm a Data Engineer,
 <br/>
 
 <h4 align="center">Profile Views</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{Srikoushikkamal}/count.svg" alt="Srikoushikkamal :: Profile Views" /></p>
-<br/>
+### Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Srikoushikkamal&color=blue)
 
 
 [resume]:https://www.canva.com/design/DAG1rwmT6rc/NCo9aoTb0SnmWGcpsHd-Rw/edit?utm_content=DAG1rwmT6rc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
