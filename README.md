@@ -47,7 +47,7 @@ I'm a Data Engineer,
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][blank]
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][blank]
 <br/>
-
+<br/>
 
 ### Podcast Playlist 🎧
 [<img src="https://media4.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" alt="Spotify Playing" width="120" />](https://open.spotify.com/episode/295zoMnhPrxzDjSUYpQFHJ?si=tuodH4XbQAi32wkt4BMAbA&utm_source=copy-link)
