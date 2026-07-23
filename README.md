@@ -13,11 +13,11 @@ I'm a Data Engineer,
 🎵 Music keeps me sane on the side
 
 ## GOALS
-📅 2022 Goal: Get an Internship/Job in ML/DS (Done)
-📅 2023 Goal: Should be the go to person in Data Engineering (Not done, reroute to business)
-📅 2024 Goal: Grew Business, and saving funds for masters (Done)
+📅 2022 Goal: Get an Internship/Job in ML/DS (Done) <br>
+📅 2023 Goal: Should be the go to person in Data Engineering (Not done, reroute to business) <br>
+📅 2024 Goal: Grew Business, and saving funds for masters (Done) <br>
 📅 2025 Goal: Do Masters (Done) <br>
-📅 2026 Goal: Finding a Job in Dublin 🎯
+📅 2026 Goal: Finding a Job in Dublin 🎯 <br>
 
 
 
