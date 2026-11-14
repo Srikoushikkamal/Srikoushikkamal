@@ -1,73 +1,31 @@
-### Hey There, I'm Srikoushikkamal - aka skk 👋
+# Srikoushikkamal Sridhar Babu
 
-<p align="left">
-<img src="https://cdn.dribbble.com/users/118246/screenshots/5343519/wifi.gif" width="500"  />
-</p>
+MSc in Big Data Management and Analytics, Griffith College Dublin. I work in Python and SQL, and I am looking for a first role in databases, cloud support, site reliability or data in Ireland.
 
-I'm a Data Engineer,
+Before the master's I was Operations Manager at Snackjack, a food and snack business in India. I grew it from one outlet to five and split it into two formats, FoodJack and SnackJack, after analysing student purchase data against historical sales.
 
-🎓 MSc in Big Data Analytics @ Griffith College Dublin <br>
-🐍 Python, SQL, ETL pipelines <br>
-🌱 Growing into Data Engineering <br>
-🤝 Open to Junior/Associate roles in Dublin <br>
-🎵 Music keeps me sane on the side
+## Projects
 
-## GOALS
-📅 2022 Goal: Get an Internship/Job in ML/DS (Done) <br>
-📅 2023 Goal: Should be the go to person in Data Engineering (Not done, reroute to business) <br>
-📅 2024 Goal: Grew Business, and saving funds for masters (Done) <br>
-📅 2025 Goal: Do Masters (Done) <br>
-📅 2026 Goal: Finding a Job in Dublin 🎯 <br>
+**[query-triage](https://github.com/Srikoushikkamal/query-triage)** (in progress)
+A PostgreSQL database with 8 million rows and three queries that are slow for three different reasons, each fixed and re-timed (up to 890x faster). The next step is a tool that reads `EXPLAIN ANALYZE` output, asks an LLM for a fix and proves it by timing the query again. PostgreSQL, Docker, SQL.
 
+**[Classroom attendance from a group photograph](https://github.com/Srikoushikkamal/smart_attendance_face_rec)**
+Finds the faces in a class photo, matches them against reference photos and writes an attendance register. My final year project, published in IRJET in 2022, and rewritten in 2026 after I found four bugs in the original. Python, OpenCV, dlib.
 
+**[Dublin bus real-time data](https://github.com/Srikoushikkamal/Dublin_bus_prediction)**
+Collects live trip updates from the National Transport Authority GTFS-R feed into a dataset for delay analysis. Python, pandas.
 
-### Connect With Me : 
+**In progress:** an analysis of EirGrid Irish wind generation data in Python, and a wind farm project economics model in Excel.
 
-[<img align="left" alt="skk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br /> <br />
-[<img align="left" alt="skk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]<br /><br />
-[<img align="left" alt="skk" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/gmail-1664104-1412927.png" />][mail] : srikoushikkamal@gmail.com
+## Skills
 
-[mail]: https://mail.google.com/mail/?view=cm&fs=1&to=srikoushikkamal@gmail.com
+Python (pandas, OpenCV, requests), SQL (PostgreSQL, T-SQL), Docker, Git, Excel.
+I speak English, Tamil, Hindi and Telugu.
 
+## Contact
 
+- Email: srikoushikkamal@gmail.com
+- LinkedIn: [linkedin.com/in/Srikoushikkamal](https://linkedin.com/in/Srikoushikkamal)
+- Portfolio: [srikoushikkamal.github.io](https://srikoushikkamal.github.io)
 
-<br />
-
-### Languages and Tools:
-[<img align="left" alt="Python" width="26px" src="https://w7.pngwing.com/pngs/792/780/png-transparent-python-computer-icons-tutorial-computer-programming-social-icons-miscellaneous-angle-text.png" />][blank]
-[<img align="left" alt="SQL Server" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />][blank]
-[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][blank]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][blank]
-[<img align="left" alt="bash" width="38px" src="https://cdn.pixabay.com/photo/2013/07/12/14/48/bash-148836_960_720.png" />][blank]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][blank]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][blank]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][blank]
-[<img align="left" alt="Conda" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" />][blank]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][blank]
-[<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][blank]
-<br/>
-<br/>
-
-### Podcast Playlist 🎧
-[<img src="https://media4.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" alt="Spotify Playing" width="120" />](https://open.spotify.com/episode/295zoMnhPrxzDjSUYpQFHJ?si=tuodH4XbQAi32wkt4BMAbA&utm_source=copy-link)
-<br/>
-### Soundcloud Own-MusicalScore 🎧
-[<img src="https://i.gifer.com/origin/86/86c2069faefa082ce4c6d380b78abbfa_w200.webp" width="200" />](https://soundcloud.com/skkscores)
-
-<br/>
-
-<div align="center">
-
-### Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Srikoushikkamal&color=blue)
-
-</div>
-
-
-[resume]:https://www.canva.com/design/DAG1rwmT6rc/NCo9aoTb0SnmWGcpsHd-Rw/edit?utm_content=DAG1rwmT6rc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-[website]: https://srikoushikkamal.life
-[instagram]: https://instagram.com/skk_kamal_?igshid=4svygymtw83f
-[linkedin]: https://linkedin.com/in/Srikoushikkamal
-[blank]: https://docs.google.com/document/d/e/2PACX-1vTs5A3HLDhYFdbK5iX6LpywPTTrJhoIOZzVRrTZP9NnOazcwIZsS5zDoP0YpBtzVVi1h25o8rFLrApF/pub
-[mail]: http://www.blankwebsite.com/
+Outside work I write and produce music: [soundcloud.com/skkscores](https://soundcloud.com/skkscores)
