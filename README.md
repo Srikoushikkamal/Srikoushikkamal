@@ -13,7 +13,7 @@ A PostgreSQL database with 8 million rows and three queries that are slow for th
 Finds the faces in a class photo, matches them against reference photos and writes an attendance register. My final year project, published in IRJET in 2022, and rewritten in 2026 with tests after I found four bugs in the original. Python, OpenCV, dlib.
 
 **[Dublin bus real-time data](https://github.com/Srikoushikkamal/Dublin_bus_prediction)**
-Collects live trip updates from the National Transport Authority GTFS-R feed into a dataset for delay analysis. Python, pandas.
+Collects live trip updates from the National Transport Authority GTFS-R feed and reconciles them against the static timetable, with retries for feed gaps and checks for malformed or unmatched records. Python, pandas, pytest.
 
 **In progress:** an analysis of EirGrid Irish wind generation data in Python, and a wind farm project economics model in Excel.
 
