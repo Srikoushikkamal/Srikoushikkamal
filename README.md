@@ -6,11 +6,11 @@ Before the master's I was Operations Manager at Snackjack, a food and snack busi
 
 ## Projects
 
-**query-triage** (in progress, repository to follow)
-A PostgreSQL database with 8 million rows and three queries that are slow for three different reasons, each fixed and re-timed (up to 890x faster). The next step is a tool that reads `EXPLAIN ANALYZE` output, asks an LLM for a fix and proves it by timing the query again. PostgreSQL, Docker, SQL.
+**[query-triage](https://github.com/Srikoushikkamal/query-triage)** (in progress)
+A PostgreSQL database with 8 million rows and three queries that are slow for three different reasons, each fixed and re-timed (up to 1000x faster). The next step is a tool that reads `EXPLAIN ANALYZE` output, asks an LLM for a fix and proves it by timing the query again. PostgreSQL, Docker, SQL.
 
-**Classroom attendance from a group photograph** (being rewritten, repository to follow)
-Finds the faces in a class photo, matches them against reference photos and writes an attendance register. My final year project, published in IRJET in 2022. I am rewriting it after finding four bugs in the original. Python, OpenCV, dlib.
+**[Classroom attendance from a group photograph](https://github.com/Srikoushikkamal/smart_attendance_face_rec)**
+Finds the faces in a class photo, matches them against reference photos and writes an attendance register. My final year project, published in IRJET in 2022, and rewritten in 2026 with tests after I found four bugs in the original. Python, OpenCV, dlib.
 
 **[Dublin bus real-time data](https://github.com/Srikoushikkamal/Dublin_bus_prediction)**
 Collects live trip updates from the National Transport Authority GTFS-R feed into a dataset for delay analysis. Python, pandas.
