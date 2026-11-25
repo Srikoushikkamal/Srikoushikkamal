@@ -6,7 +6,7 @@ Before the master's I was Operations Manager at Snackjack, a food and snack busi
 
 ## Projects
 
-**[query-triage](https://github.com/Srikoushikkamal/query-triage)** (in progress)
+**[query-triage](https://github.com/Srikoushikkamal/query-triage)**
 A PostgreSQL database with 8 million rows and three queries that are slow for three different reasons, each fixed and re-timed (up to 1000x faster). A tool, `triage.py`, reads the `EXPLAIN ANALYZE` output, asks an LLM for a fix and proves it by timing the query again, undoing it if it does not help. PostgreSQL, Docker, Python, SQL.
 
 **[Classroom attendance from a group photograph](https://github.com/Srikoushikkamal/smart_attendance_face_rec)**
