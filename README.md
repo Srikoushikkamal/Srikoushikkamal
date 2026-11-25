@@ -1,10 +1,13 @@
 # Srikoushikkamal Sridhar Babu
 
-MSc in Big Data Management and Analytics, Griffith College Dublin. I work in Python and SQL, and I am looking for a first role in databases, cloud support, site reliability or data in Ireland.
+MSc in Big Data Management and Analytics, Griffith College Dublin. I work in Python and SQL, and I am looking for a first role in business analysis, data, databases or cloud support in Ireland.
 
 Before the master's I was Operations Manager at Snackjack, a food and snack business in India. I grew it from one outlet to five and split it into two formats, FoodJack and SnackJack, after analysing student purchase data against historical sales.
 
 ## Projects
+
+**[Snackjack case study](https://github.com/Srikoushikkamal/snackjack-case-study)**
+The problems I dealt with running five campus food spots in Coimbatore (star dishes, students switching in groups, upselling, waste against the college calendar, veg against chicken, food that does not travel), worked through as a business analyst would: process maps, SQL on rebuilt records, before and after checks, requirements and user stories. SQL, Python, pandas.
 
 **[query-triage](https://github.com/Srikoushikkamal/query-triage)**
 A PostgreSQL database with 8 million rows and three queries that are slow for three different reasons, each fixed and re-timed (up to 1000x faster). A tool, `triage.py`, reads the `EXPLAIN ANALYZE` output, asks an LLM for a fix and proves it by timing the query again, undoing it if it does not help. PostgreSQL, Docker, Python, SQL.
