@@ -7,7 +7,7 @@ Before the master's I was Operations Manager at Snackjack, a food and snack busi
 ## Projects
 
 **[Snackjack case study](https://github.com/Srikoushikkamal/snackjack-case-study)**
-The problems I dealt with running five campus food spots in Coimbatore (star dishes, students switching in groups, upselling, waste against the college calendar, veg against chicken, food that does not travel), each as one simple loop: what was wrong, what the numbers said, what I changed and whether it worked. SQL on rebuilt records, Python, pandas.
+The problems I dealt with running five campus food spots in Coimbatore (star dishes, students switching in groups, upselling, waste against the college calendar, veg against chicken, a spot with no stove), each as one simple loop: what was wrong, what the numbers said, what I changed and whether it worked. SQL on rebuilt records, Python, pandas.
 
 **[query-triage](https://github.com/Srikoushikkamal/query-triage)**
 A PostgreSQL database with 8 million rows and three queries that are slow for three different reasons, each fixed and re-timed (up to 1000x faster). A tool, `triage.py`, reads the `EXPLAIN ANALYZE` output, asks an LLM for a fix and proves it by timing the query again, undoing it if it does not help. PostgreSQL, Docker, Python, SQL.
